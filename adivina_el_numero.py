@@ -11,7 +11,7 @@ def run():
         else:
             print("Busca un numero mas pequeño")
         numero_elegido = int(input("Elige otro numero"))
-    print("Ganaste!")
+    print("Ganaste man!")
 
 
 if __name__ == "__main__":
