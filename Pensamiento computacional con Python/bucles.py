@@ -9,5 +9,6 @@ def run():
         potencia_2 = 2**contador
 
 
+
 if __name__ == "__main__":
     run()
